@@ -1,0 +1,14 @@
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.AssemblyInfoInputs.cache
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.AssemblyInfo.cs
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.csproj.CoreCompileInputs.cache
+C:\Users\zombi\source\repos\Nextch\Nextch\bin\Debug\net8.0\Nextch.exe
+C:\Users\zombi\source\repos\Nextch\Nextch\bin\Debug\net8.0\Nextch.deps.json
+C:\Users\zombi\source\repos\Nextch\Nextch\bin\Debug\net8.0\Nextch.runtimeconfig.json
+C:\Users\zombi\source\repos\Nextch\Nextch\bin\Debug\net8.0\Nextch.dll
+C:\Users\zombi\source\repos\Nextch\Nextch\bin\Debug\net8.0\Nextch.pdb
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.dll
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\refint\Nextch.dll
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.pdb
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\Nextch.genruntimeconfig.cache
+C:\Users\zombi\source\repos\Nextch\Nextch\obj\Debug\net8.0\ref\Nextch.dll
