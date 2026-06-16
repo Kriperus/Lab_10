@@ -45,7 +45,7 @@ namespace PascalCompiler
             _errors.ReportError(100, position12);
 
             string line13 = allLines[12];
-            int position13 = line13.IndexOf('b');
+            int position13 = line13.IndexOf('-');
             Console.WriteLine($"  13   {line13}");
             _errors.ReportError(147, position13);
 
