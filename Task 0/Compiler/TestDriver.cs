@@ -40,7 +40,7 @@ namespace PascalCompiler
             Console.WriteLine($"  11   {allLines[10]}");
 
             string line12 = allLines[11];
-            int position12 = line12.IndexOf('i');
+            int position12 = line12.IndexOf('k');
             Console.WriteLine($"  12   {line12}");
             _errors.ReportError(100, position12);
 
@@ -50,7 +50,7 @@ namespace PascalCompiler
             _errors.ReportError(147, position13);
 
             string line14 = allLines[13];
-            int position14 = line14.IndexOf('c');
+            int position14 = line14.IndexOf('i');
             Console.WriteLine($"  14   {line14}");
             _errors.ReportError(147, position14);
 
