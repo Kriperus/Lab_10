@@ -1,0 +1,28 @@
+C:\Users\zombi\source\repos\Compiler\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\zombi\source\repos\Compiler\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\zombi\source\repos\Compiler\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\zombi\source\repos\Compiler\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\zombi\source\repos\Compiler\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\zombi\source\repos\Compiler\Compiler\obj\Debug\net8.0\ref\Compiler.dll
+C:\Users\zombi\source\repos\Task 0\Compiler\bin\Debug\net8.0\Compiler.exe
+C:\Users\zombi\source\repos\Task 0\Compiler\bin\Debug\net8.0\Compiler.deps.json
+C:\Users\zombi\source\repos\Task 0\Compiler\bin\Debug\net8.0\Compiler.runtimeconfig.json
+C:\Users\zombi\source\repos\Task 0\Compiler\bin\Debug\net8.0\Compiler.dll
+C:\Users\zombi\source\repos\Task 0\Compiler\bin\Debug\net8.0\Compiler.pdb
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfoInputs.cache
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.AssemblyInfo.cs
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.dll
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\refint\Compiler.dll
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.pdb
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\Compiler.genruntimeconfig.cache
+C:\Users\zombi\source\repos\Task 0\Compiler\obj\Debug\net8.0\ref\Compiler.dll
