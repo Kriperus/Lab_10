@@ -98,5 +98,6 @@ const d = 10;
 
 ![3](screenshots/3rd-task.png)
 
+### Итоговый результат работы компилятора
 
-
+![4](screenshots/summary.png)
